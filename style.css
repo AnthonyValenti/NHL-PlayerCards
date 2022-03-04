@@ -1,0 +1,155 @@
+body{
+    background-color: #28313b;
+}
+h1{
+    color: white;
+    font-family: serif;
+    font-size: 300%;
+    font-weight: 800%;
+    
+}
+
+table{
+    margin-top: 5%;
+    margin-left: auto; 
+    margin-right:auto;
+    font-family: serif;
+    font-size: 200%;
+    font-weight: 800;
+    color: white;
+    border: solid;
+    border-width: 8px;
+    border-color: white;
+    width: 80%;
+    height: 500px;
+    overflow-y: scroll;
+    overflow-x: scroll;
+    
+}
+
+
+input{
+    border: 2px solid slategrey;
+    background-color: transparent;
+    border-radius: 5px;
+    font-family: serif;
+    font-size: 150%;
+    font-weight: 800;
+    color: white;
+
+}
+
+#sugBox{
+    border: 2px solid slategrey;
+    background-color: transparent;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top: transparent;
+    margin-top: 0%;
+    font-family: serif;
+    font-size: 25pt;
+    font-weight: 800;
+    color: white;
+    visibility: hidden;
+}
+
+.overall {
+    height: 70px;
+    width:  120px;
+    background-color: lightblue;
+    border-radius: 5px;
+    text-align: center;
+    font-family: serif;
+    font-size: 22pt;
+    font-weight: 800;
+    color: white;
+}
+.EVO {
+    height: 70px;
+    width:  120px;
+    background-color: lightblue;
+    border-radius: 5px;
+    text-align: center;
+    font-family: serif;
+    font-size: 22pt;
+    font-weight: 800;
+    color: white;
+}
+.EVShot {
+    height: 70px;
+    width:  120px;
+    background-color: lightblue;
+    border-radius: 5px;
+    text-align: center;
+    font-family: serif;
+    font-size: 22pt;
+    font-weight: 800;
+    color: white;
+}
+.TakeAway {
+    height: 70px;
+    width:  120px;
+    background-color: lightblue;
+    border-radius: 5px;
+    text-align: center;
+    font-family: serif;
+    font-size: 22pt;
+    font-weight: 800;
+    color: white;
+}
+.EVD {
+    height: 70px;
+    width:  120px;
+    background-color: lightblue;
+    border-radius: 5px;
+    text-align: center;
+    font-family: serif;
+    font-size: 22pt;
+    font-weight: 800;
+    color: white;
+}
+.penDif {
+    height: 70px;
+    width:  120px;
+    background-color: lightblue;
+    border-radius: 5px;
+    text-align: center;
+    font-family: serif;
+    font-size: 22pt;
+    font-weight: 800;
+    color: white;
+}
+.PK {
+    height: 70px;
+    width:  120px;
+    background-color: lightblue;
+    border-radius: 5px;
+    text-align: center;
+    font-family: serif;
+    font-size: 22pt;
+    font-weight: 800;
+    color: white;
+}
+.PP {
+    height: 70px;
+    width:  120px;
+    background-color: lightblue;
+    border-radius: 5px;
+    text-align: center;
+    font-family: serif;
+    font-size: 22pt;
+    font-weight: 800;
+    color: white;
+}
+.labels {
+    height: 70px;
+    width:  70px;
+    background-color: rgb(100, 100, 100);
+    border-radius: 5px;
+    text-align: center;
+    font-family: serif;
+    font-size: 15pt;
+    font-weight: 800;
+    color: white;
+}
+
