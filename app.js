@@ -1,3 +1,4 @@
+
 search = document.getElementById("search");
 ovr = document.getElementById("overall");
 sht = document.getElementById("EVShot");
@@ -23,6 +24,7 @@ search.addEventListener("keyup", function (event) {
  });
  search.addEventListener("input", function (event) {
      getMatchingData(search.value);
+   
 
  });
 
@@ -39,7 +41,7 @@ sugBox.onclick = function () {
     const regex = new RegExp(`${input}`, "gi");
     return player.Player.match(regex);
   });
-  if(input!=""){
+  if(input!=null){
     sugBox.style.visibility="visible";
     sugBox.innerText = matches[0].Player;
   } 
