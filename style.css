@@ -27,6 +27,14 @@ table{
     
 }
 
+@media only screen and (max-width: 480px) {
+    /* horizontal scrollbar for tables if mobile screen */
+    .tablemobile {
+        overflow-x: auto;
+        display: block;
+    }
+}
+
 
 input{
     border: 2px solid slategrey;
