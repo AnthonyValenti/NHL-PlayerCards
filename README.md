@@ -1,5 +1,5 @@
 # NHL-PlayerCards
-NHL Player cards built using percentile ranks of Wins Above Replacement stats from TopDownHockey.
+NHL Player cards built using percentile ranks of Wins Above Replacement stats during the 2020-2022 seasons from TopDownHockey.
 Checkout the site at https://puckenanalysis.netlify.app
 # Data Explanation
 All stats displayed are percentage rankings of a players WAR- Wins above replacement. This stat aims to quantify how many extra wins an individual player will earn
