@@ -161,3 +161,10 @@ input{
     color: white;
 }
 
+.legend{
+    margin-top: 5%;
+    font-family: serif;
+    font-size: 12pt;
+    color: lightslategray;
+    text-align: left;
+}
