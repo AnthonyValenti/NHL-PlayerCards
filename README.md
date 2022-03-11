@@ -21,3 +21,10 @@ PP% - A players poweplay WAR.
 
 PK% - A players penalty-kill WAR. 
 
+# Example Player Card
+
+<img width="1438" alt="Screen Shot 2022-03-11 at 11 31 25 AM" src="https://user-images.githubusercontent.com/57304403/157908378-721890c9-abb8-4275-8afa-c339a8cd4f8d.png">
+
+Here is Leafs star centre Auston Matthews, the top of the card displays his basic information such as team, position, age and cap hit(salary). Below are all of his stats expressed as wins above replacemnt, in which he ranks in the top percentile for almost every metric. Clearly indictive of a star player. 
+
+
