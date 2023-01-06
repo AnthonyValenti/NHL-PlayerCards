@@ -35,7 +35,7 @@ sugBox.onclick = function () {
 };
 
  async function getMatchingData(input){
-  const response = await fetch("https://playercard-server.herokuapp.com/players");
+  const response = await fetch("https://playercard-server.onrender.com/players");
   const data = await response.json();
   let matches = data.filter((player) => {
     const regex = new RegExp(`${input}`, "gi");
@@ -51,7 +51,7 @@ sugBox.onclick = function () {
 
 
 async function getPlayerData(name) {
-  const response = await fetch("https://playercard-server.herokuapp.com/players");
+  const response = await fetch("https://playercard-server.onrender.com/players");
   const data = await response.json();
   for (item of data){
     if(item.Player==name){
